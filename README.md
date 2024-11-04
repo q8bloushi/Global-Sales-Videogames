@@ -5,7 +5,9 @@
 
 ### Node.js (if you have Node.js installed): Install the http-server package:
 - open ```cmd``` then run:
- ```bash npm install -g http-server```
+ ```bash
+ npm install -g http-server
+```
  Then run:
 ```bash
 http-server
